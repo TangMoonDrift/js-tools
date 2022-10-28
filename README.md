@@ -1,1 +1,1 @@
-# -JS-
+# some easy utils function
